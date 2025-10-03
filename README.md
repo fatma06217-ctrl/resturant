@@ -1,1 +1,1 @@
-# resturant
+# Django Restaurant Management System
